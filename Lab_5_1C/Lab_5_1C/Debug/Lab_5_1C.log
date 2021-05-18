@@ -1,0 +1,49 @@
+﻿  Error.cpp
+  Money.cpp
+  Money_priv.cpp
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(23,15): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(24,17): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(56,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(57,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(58,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(59,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(84,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(86,24): warning C4244: =: преобразование "long double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(92,20): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(144,16): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(149,16): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(155,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(158,23): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(159,21): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(168,21): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(169,23): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(171,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  Money_publ.cpp
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(23,15): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(24,17): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(31,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(32,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(33,11): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(34,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(59,20): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(61,24): warning C4244: =: преобразование "long double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(67,20): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(119,16): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(124,16): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(130,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(133,23): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(134,21): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(143,21): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(144,23): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(146,22): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(75): warning C4715: operator==: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(89): warning C4715: operator>=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(82): warning C4715: operator!=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_publ.cpp(96): warning C4715: operator<=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(100): warning C4715: operator==: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(107): warning C4715: operator!=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(114): warning C4715: operator>=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1C\Lab_5_1C\Money_priv.cpp(121): warning C4715: operator<=: значение возвращается не при всех путях выполнения
+  Lab_5_1C.vcxproj -> W:\OOP\Lab_5_1C\Debug\Lab_5_1C.exe
