@@ -1,0 +1,12 @@
+﻿  Error.cpp
+  Money.cpp
+W:\OOP\Lab_5_1E\Lab_5_1E\Money.cpp(111,19): warning C4244: =: преобразование "long double" в "unsigned int", возможна потеря данных
+W:\OOP\Lab_5_1E\Lab_5_1E\Money.cpp(117,15): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+  Object.cpp
+  Source.cpp
+  Создание кода...
+W:\OOP\Lab_5_1E\Lab_5_1E\Money.cpp(125): warning C4715: operator==: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1E\Lab_5_1E\Money.cpp(139): warning C4715: operator>=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1E\Lab_5_1E\Money.cpp(146): warning C4715: operator<=: значение возвращается не при всех путях выполнения
+W:\OOP\Lab_5_1E\Lab_5_1E\Money.cpp(132): warning C4715: operator!=: значение возвращается не при всех путях выполнения
+  Lab_5_1E.vcxproj -> W:\OOP\Lab_5_1E\Debug\Lab_5_1E.exe
